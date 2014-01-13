@@ -4101,7 +4101,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .nav > li > a {
   position: relative;
   display: block;
-  padding: 10px 15px;
+  padding: 19px 15px 0px;
 }
 
 .nav > li > a:hover,
@@ -4489,7 +4489,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .navbar-brand {
   float: left;
   padding: 15px 15px;
-  font-size: 18px;
+  font-size: 15px;
   line-height: 20px;
 }
 
