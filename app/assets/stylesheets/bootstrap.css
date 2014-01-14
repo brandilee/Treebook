@@ -4101,17 +4101,17 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .nav > li > a {
   position: relative;
   display: block;
-  padding: 19px 15px 0px;
+  padding: 15px 15px 0px;
 }
 
 .nav > li > a:hover,
 .nav > li > a:focus {
   text-decoration: none;
-  background-color: #eeeeee;
+  background-color: none;
 }
 
 .nav > li.disabled > a {
-  color: #999999;
+  color: #000;
 }
 
 .nav > li.disabled > a:hover,
